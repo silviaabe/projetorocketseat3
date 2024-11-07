@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="https://github.com/user-attachments/assets/f08de0f8-a60b-4861-a7a9-a102034e375e" width="700">
+  <img alt="Formulário de Eventos" src="https://github.com/user-attachments/assets/f08de0f8-a60b-4861-a7a9-a102034e375e" width="700">
 </p>
 
 ## Tecnologias
